@@ -1,0 +1,11 @@
+server {
+        listen   <%=@listenport-%>;
+
+        root <%=@site_folder_dst-%>;
+        index index.html index.htm;
+        server_name localhost;
+
+        location / {
+                try_files $uri $uri/ /index.html;
+        }
+}

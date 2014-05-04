@@ -1,0 +1,40 @@
+{
+  "author": "braddeicide",
+  "checksums": {
+    "spec/spec_helper_acceptance.rb": "57bfded87b0488e093d502e6c27b038c",
+    "Gemfile": "3963c96ff1729d64863779f229b26ed1",
+    "manifests/install.pp": "f1aadba67de1fb1e50a2cf33facb9b5a",
+    "spec/acceptance/class_spec.rb": "09be11ce8e2e03db10665777302991e5",
+    "spec/acceptance/nodesets/default.yml": "1091bb0897dc8ee94a391ab1d8e45132",
+    "manifests/service.pp": "aee2cb76efae05a4b1e9d99fe1c4fc01",
+    "README": "3c16498972b63edbcabc5eec1dd7ea35",
+    "Modulefile": "a8c6ba1b8f7bde6813da2ae2769d1688",
+    "tests/init.pp": "66924639fb8862692607a17947be9ec0",
+    "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+    "manifests/params.pp": "df2cdc6468afbdc0a4f188ed168697b9",
+    ".vagrant/beaker_vagrant_files/default.yml/.vagrant/machines/ubuntu-server-12042-x64/virtualbox/id": "8da62aa370bb0426ed895f23833caf38",
+    "spec/acceptance/nodesets/ubuntu-server-12042-x64.yml": "d7242e2fd491fea68b2ea2413befa4d4",
+    "manifests/init.pp": "00a69280aa6bf64e7ca5c34151e96ca1",
+    "spec/acceptance/nginx_deploy_example_website.rb": "d6b2d7bde19eb7b6dbb1dba795789ca6",
+    ".vagrant/beaker_vagrant_files/default.yml/Vagrantfile": "f02178933055d323da03942fd6dcb32e",
+    ".vagrant/beaker_vagrant_files/default.yml/.vagrant/machines/ubuntu-server-12042-x64/virtualbox/action_set_name": "8045a8a5b49c9a3bb122fa540ce9616a",
+    "manifests/config.pp": "ee8d642c57199642d6e77e648eb87595",
+    "templates/exercise.erb": "68bde39b28bd3b8830f3bbcd73debf9a",
+    ".vagrant/beaker_vagrant_files/default.yml/.vagrant/machines/ubuntu-server-12042-x64/virtualbox/action_provision": "39f1c43dc5433a17fe06cc50915731f1",
+    "Gemfile.lock": "5cd64e53587cd96606d74616d812a80a"
+  },
+  "dependencies": [
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": "\u003e\u003d1.0.0"
+    }
+  ],
+  "description": "UNKNOWN",
+  "license": "Apache License, Version 2.0",
+  "name": "braddeicide-nginx",
+  "project_page": "UNKNOWN",
+  "source": "UNKNOWN",
+  "summary": "UNKNOWN",
+  "types": [],
+  "version": "0.1.0"
+}
