@@ -9,4 +9,6 @@
 # Learn more about module testing here:
 # http://docs.puppetlabs.com/guides/tests_smoke.html
 #
-include nginx
+class { 'nginx': 
+  site_git_src    => "https://github.com/puppetlabs/exercise-webpage.git",
+}
